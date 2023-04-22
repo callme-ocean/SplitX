@@ -12,7 +12,7 @@ Software Download Link(Windows) : https://drive.google.com/file/d/1Q0cHG3wMsR3r3
 
 # Screenshots
 
-![Screenshots](https://github.com/Bhuvanesh01/FileSplitterAndJoiner/blob/master/src/Home/Images/2.PNG)
+![Screenshots](src/Home/Images/2.PNG)
 
 ![Screenshots](https://github.com/Bhuvanesh01/FileSplitterAndJoiner/blob/master/src/Home/Images/3.PNG)
 
